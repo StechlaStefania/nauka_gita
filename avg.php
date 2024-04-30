@@ -35,7 +35,7 @@ function sredniaWazona($wartosci, $wagi) {
 
 // Przykładowe użycie funkcji
 $wartosci = array(1, 2, 3, 4, 5);
-$wagi = array(0.1, 0.2, 0.3, 0.2, 0.2); // Suma wag powinna wynosić 1
+$wagi = array(5,5,5,5,5); // Suma wag powinna wynosić 1
 echo "Średnia ważona: " . sredniaWazona($wartosci, $wagi);
 
 ​
